@@ -62,22 +62,38 @@ function Footer() {
                 <ul className="list-unstyled text-center mt-2">
                   <li>
                     <Link to="/">
+<<<<<<< HEAD
                       <i className="bi bi-facebook"></i>
+=======
+                      <i class="bi bi-facebook"></i>
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
                     </Link>
                   </li>
                   <li>
                     <Link to="/">
+<<<<<<< HEAD
                       <i className="bi bi-twitter"></i>
+=======
+                      <i class="bi bi-twitter"></i>
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
                     </Link>
                   </li>
                   <li>
                     <Link to="/">
+<<<<<<< HEAD
                       <i className="bi bi-instagram"></i>
+=======
+                      <i class="bi bi-instagram"></i>
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
                     </Link>
                   </li>
                   <li>
                     <Link to="/">
+<<<<<<< HEAD
                       <i className="bi bi-youtube"></i>
+=======
+                      <i class="bi bi-youtube"></i>
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
                     </Link>
                   </li>
                 </ul>
@@ -112,7 +128,11 @@ function Footer() {
       {/* Sroll To Top */}
       {isVisible && (
         <div className="scroll_top" onClick={scrollTop}>
+<<<<<<< HEAD
           <i className="bi bi-arrow-up"></i>
+=======
+          <i class="bi bi-arrow-up"></i>
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
         </div>
       )}
     </>

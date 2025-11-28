@@ -2,7 +2,11 @@ import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "../../components/Layouts/Header";
 import Footer from "../../components/Layouts/Footer";
+<<<<<<< HEAD
 
+=======
+import sign from "../../styles/sign.css"
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
 import { Navigate } from "react-router-dom";
 
 export default function SignUp() {

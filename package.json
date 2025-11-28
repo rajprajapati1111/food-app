@@ -1,16 +1,25 @@
 {
+<<<<<<< HEAD
   "proxy": "http://localhost:8000",
   "name": "y",
+=======
+  "name": "food-app",
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "axios": "^1.13.2",
     "bootstrap": "^5.3.1",
     "bootstrap-icons": "^1.10.5",
     "lucide-react": "^0.554.0",
+=======
+    "bootstrap": "^5.3.1",
+    "bootstrap-icons": "^1.10.5",
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
@@ -44,9 +53,13 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+<<<<<<< HEAD
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
   "license": "ISC"
+=======
+  }
+>>>>>>> 8c99ca416ac5eb6f7617a7ba941ffd713b451083
 }
